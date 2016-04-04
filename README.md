@@ -2,7 +2,7 @@
 
 ## Preview
 
-![graph](img/graph01.png)
+![img](http://i.imgur.com/tViGhpa.png)
 
 ## Usage
 Point your browser to https://marti149.shinyapps.io/shiny/
@@ -14,7 +14,7 @@ This project is still under development. Current Objectives:
 
 - add smooth lines to upper heart rate
 - test out of bound ages
-- add Preview image
+- test Preview image
 - cygwin support
 
 ## Testing
