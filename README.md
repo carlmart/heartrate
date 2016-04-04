@@ -2,6 +2,8 @@
 
 ## Preview
 
+![graph](img/graph01.png)
+
 ## Usage
 Point your browser to https://marti149.shinyapps.io/shiny/
 and choose your age
